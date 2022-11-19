@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/hom_2.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/hom_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/hom_2.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/hom_2.AssemblyInfo.cs
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/hom_2.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Homework/hom_2/bin/Debug/net6.0/hom_2
+/Users/anastasia/Desktop/Homework/hom_2/bin/Debug/net6.0/hom_2.deps.json
+/Users/anastasia/Desktop/Homework/hom_2/bin/Debug/net6.0/hom_2.runtimeconfig.json
+/Users/anastasia/Desktop/Homework/hom_2/bin/Debug/net6.0/hom_2.dll
+/Users/anastasia/Desktop/Homework/hom_2/bin/Debug/net6.0/hom_2.pdb
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/hom_2.dll
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/refint/hom_2.dll
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/hom_2.pdb
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/hom_2.genruntimeconfig.cache
+/Users/anastasia/Desktop/Homework/hom_2/obj/Debug/net6.0/ref/hom_2.dll
