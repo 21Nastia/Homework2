@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Homework/home_4/bin/Debug/net6.0/home_4
+/Users/anastasia/Desktop/Homework/home_4/bin/Debug/net6.0/home_4.deps.json
+/Users/anastasia/Desktop/Homework/home_4/bin/Debug/net6.0/home_4.runtimeconfig.json
+/Users/anastasia/Desktop/Homework/home_4/bin/Debug/net6.0/home_4.dll
+/Users/anastasia/Desktop/Homework/home_4/bin/Debug/net6.0/home_4.pdb
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/home_4.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/home_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/home_4.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/home_4.AssemblyInfo.cs
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/home_4.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/home_4.dll
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/refint/home_4.dll
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/home_4.pdb
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/home_4.genruntimeconfig.cache
+/Users/anastasia/Desktop/Homework/home_4/obj/Debug/net6.0/ref/home_4.dll
