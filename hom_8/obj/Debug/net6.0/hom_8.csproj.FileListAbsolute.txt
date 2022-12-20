@@ -1,0 +1,15 @@
+/Users/anastasia/Desktop/Homework/hom_8/bin/Debug/net6.0/hom_8
+/Users/anastasia/Desktop/Homework/hom_8/bin/Debug/net6.0/hom_8.deps.json
+/Users/anastasia/Desktop/Homework/hom_8/bin/Debug/net6.0/hom_8.runtimeconfig.json
+/Users/anastasia/Desktop/Homework/hom_8/bin/Debug/net6.0/hom_8.dll
+/Users/anastasia/Desktop/Homework/hom_8/bin/Debug/net6.0/hom_8.pdb
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/hom_8.csproj.AssemblyReference.cache
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/hom_8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/hom_8.AssemblyInfoInputs.cache
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/hom_8.AssemblyInfo.cs
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/hom_8.csproj.CoreCompileInputs.cache
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/hom_8.dll
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/refint/hom_8.dll
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/hom_8.pdb
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/hom_8.genruntimeconfig.cache
+/Users/anastasia/Desktop/Homework/hom_8/obj/Debug/net6.0/ref/hom_8.dll
