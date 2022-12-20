@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anastasia/Desktop/Homework/home_4/home_4.csproj",
-      "projectName": "home_4",
-      "projectPath": "/Users/anastasia/Desktop/Homework/home_4/home_4.csproj",
+      "projectUniqueName": "/Users/anastasia/Desktop/Homework/hom_6/hom_6.csproj",
+      "projectName": "hom_6",
+      "projectPath": "/Users/anastasia/Desktop/Homework/hom_6/hom_6.csproj",
       "packagesPath": "/Users/anastasia/.nuget/packages/",
-      "outputPath": "/Users/anastasia/Desktop/Homework/home_4/obj/",
+      "outputPath": "/Users/anastasia/Desktop/Homework/hom_6/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anastasia/.nuget/NuGet/NuGet.Config"
